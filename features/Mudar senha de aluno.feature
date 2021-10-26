@@ -17,4 +17,4 @@ Scenario: Mudar senha de aluno
 	And O sistema confere se a senha de acesso “12345” está associada com o aluno “João” de cpf “098.123.323-45”
 	And O Sistema atualiza a senha associada com o aluno “João” de cpf “098.123.323-45”
 
-mod 3
+modificação nova
