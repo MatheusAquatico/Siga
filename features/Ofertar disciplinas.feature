@@ -3,9 +3,9 @@ Ofertar disciplinas
 Scenario: Ofertando, com sucesso, uma disciplina chamada “Lógica”
 
 	 
-	And Vejo que o campo de disciplinas está vazio
-	When Escolho adicionar uma disciplina
-	And Escolho “Lógica” e “Anjolina” 
+	And Vejo que o campo de disciplynas está vazio
+	When Escolho adici0nar uma disciplina
+	And Escolho “LógicA” e “Anjolina” 
 	And  Confirmo minhas configurações
 	Then Eu continuo na página de disciplinas
 	And Eu consigo ver que a disciplina de “Lógica” dada pela professora “Anjolina” foi criada
