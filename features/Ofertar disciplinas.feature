@@ -14,3 +14,5 @@ Scenario: Ofertando, com sucesso, uma disciplina chamada “Lógica”
 	Given Uma Professora chamada “Anjolina” ofertando uma disciplina chamada “Lógica”
 	When O sistema recebe as informações da disciplina de “Lógica” dada por “Anjolina”
 	Then O sistema armazena as informações e atualiza a lista de disciplinas ofertadas
+
+modi 1

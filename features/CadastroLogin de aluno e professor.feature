@@ -72,6 +72,4 @@ Scenario: Logando como um professor
 	And O sistema permite o acesso do professor “Marcelo” e “094.183.364-49” ao servidor
 
 
-=======
-
->>>>>>> 769739ee796aac365695cb3364e2cdfd4dc91855
+mod 2
