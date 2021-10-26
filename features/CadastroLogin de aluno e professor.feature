@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Cadastro aluno
 Scenario: Cadastrando um novo aluno
 	Given Estou na página de cadastro de aluno
@@ -71,3 +72,6 @@ Scenario: Logando como um professor
 	And O sistema permite o acesso do professor “Marcelo” e “094.183.364-49” ao servidor
 
 
+=======
+
+>>>>>>> 769739ee796aac365695cb3364e2cdfd4dc91855
