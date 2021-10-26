@@ -1,7 +1,8 @@
 Ofertar disciplinas
 
 Scenario: Ofertando, com sucesso, uma disciplina chamada “Lógica”
-	Given  Estou na página de disciplinas 
+
+	 
 	And Vejo que o campo de disciplinas está vazio
 	When Escolho adicionar uma disciplina
 	And Escolho “Lógica” e “Anjolina” 
